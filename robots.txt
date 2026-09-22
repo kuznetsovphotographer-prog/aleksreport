@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuznetsovphotographer-prog.github.io/aleksreport/sitemap.xml

@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "/privacy/",
+    "/consent/",
+    "/",
+    "/family/",
+    "/reportage/",
+    "/about/",
+    "/contacts/",
+    "/price/",
+    "/price/family/",
+    "/price/reportage/",
+    "/faq/",
+    "/reviews/"
+  ],
+  "generated": [
+    "/privacy/",
+    "/consent/",
+    "/",
+    "/family/",
+    "/reportage/",
+    "/about/",
+    "/contacts/",
+    "/price/",
+    "/price/family/",
+    "/price/reportage/",
+    "/faq/",
+    "/reviews/",
+    "/weddings/",
+    "/report/",
+    "/contact/",
+    "/prices/",
+    "/multilinks/",
+    "/blog/",
+    "/blog/post-1/",
+    "/blog/post-2/",
+    "/404/"
+  ],
+  "base": "/aleksreport/",
+  "siteUrl": "https://kuznetsovphotographer-prog.github.io/aleksreport",
+  "photoCount": 345,
+  "series": 0
+}
