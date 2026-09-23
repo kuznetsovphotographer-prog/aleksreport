@@ -36,8 +36,8 @@
     "/blog/post-2/",
     "/404/"
   ],
-  "base": "/aleksreport/",
-  "siteUrl": "https://kuznetsovphotographer-prog.github.io/aleksreport",
+  "base": "/",
+  "siteUrl": "https://aleksreport.ru",
   "photoCount": 345,
   "series": 0
 }

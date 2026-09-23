@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /media/family-
+Disallow: /media/og-family.jpg
+Disallow: /media/review-10848153-
+Disallow: /media/review-9322313-
+Sitemap: https://aleksreport.ru/sitemap.xml
