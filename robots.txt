@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /aleksreport/media/family-
-Disallow: /aleksreport/media/og-family.jpg
-Disallow: /aleksreport/media/review-10848153-
-Disallow: /aleksreport/media/review-9322313-
-Sitemap: https://kuznetsovphotographer-prog.github.io/aleksreport/sitemap.xml
+Disallow: /
